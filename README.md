@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./banner.png" alt="Liton Banner" width="100%">
-</p>
 # Hi 👋 I'm Liton
 
 💻 Frontend Developer | Learning Backend Development
@@ -19,28 +16,29 @@
 
 ## 🚀 Tech Stack
 
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React
-- Tailwind CSS
-- Redux Toolkit
-- React Router
-- Next js
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
 
-### Backend
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- JWT
-- Multer
-- Cloudinary
+### 🎨 Frontend
 
-### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nextjs,git,figma" />
+</p>
 
-Git • GitHub • VS Code • Postman • Render • Vercel • Firebase • MongoDB Compass • Figma
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### ⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman" />
+</p>
+
+</td>
+  </tr>
+</table>
 
 ---
 
