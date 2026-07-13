@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi 👋 I'm Liton
 
-<!--
-**litonhub/litonhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer | Learning Backend Development
+🚀 Building modern full-stack web applications with React & Node.js
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning Backend Development
+- ⚛️ Frontend: React, Next js, Tailwind CSS
+- 🔥 Backend: Node.js, Express.js, MongoDB
+- 📦 REST API Development
+- 🎯 Currently building production-level Full Stack Projects
+- 📫 Email: litonmia.dev.bd@gmail.com
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+- Tailwind CSS
+- Redux Toolkit
+- React Router
+- Next js
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT
+- Multer
+- Cloudinary
+
+### Tools
+
+Git • GitHub • VS Code • Postman • Render • Vercel • Firebase • MongoDB Compass • Figma
+
+---
+
+## Featured Projects
+
+### 🛒 Ecobazar Ecommerce
+
+Production-ready Full Stack Ecommerce
+
+Frontend
+- React
+- Redux Toolkit
+- Tailwind CSS
+
+Backend
+- Express
+- MongoDB
+- JWT Authentication
+- Product API
+- File Upload
+
+---
+
+### 📺 IPTV Sports App
+
+React + HLS Streaming Application
+
+Features
+
+- Responsive UI
+- Live Streaming
+- Fullscreen
+- Mobile Optimized
+
+---
+
+## GitHub Stats
+
+(Stats Badges)
+
+---
+
+## Connect with Me
+
+Email: litonmia.dev.bd@gmail.com
