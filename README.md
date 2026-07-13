@@ -1,6 +1,7 @@
 # Hi 👋 I'm Liton
 
 💻 Frontend Developer | Learning Backend Development
+<br/>
 🚀 Building modern full-stack web applications with React & Node.js
 
 ## 👨‍💻 About Me
